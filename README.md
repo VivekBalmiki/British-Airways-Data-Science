@@ -39,13 +39,6 @@ Here is a key chart from the analysis that shows the distribution of customer ra
 
 ![Customer Ratings Chart](path/to/your/chart_image.png)
 
-
----
-
-## 📜 Certificate
-
-You can view my certificate of completion for this program [here](link_to_your_certificate). *(Optional: If you can link to it)*
-
 ---
 
 ## 🙏 Acknowledgements
